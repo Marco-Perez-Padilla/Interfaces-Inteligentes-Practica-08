@@ -19,7 +19,7 @@ Para este ejercicio se ha requerido de:
 - [HumanoidResponse1.cs](Scripts/HumanoidResponse1.cs)  
 - [ShieldDetector1.css](Scripts/ShieldDetector1.cs)  
 
-[Ver video](Videos/VID-E-1mp4)
+[Ver video](Videos/VID-E-1.mp4)
 
 
 ### 2. Captura y reproducción de micrófono y frames de la cámara
@@ -33,4 +33,6 @@ Para este ejercicio se ha hecho:
 **Scripts:**  
 - [CameraCapture.cs](Scripts/CameraCapture.cs)  
 - [Altavoces.cs](Scripts/Altavoces.cs)
+
+[Ver video](Videos/VID-E-2.mp4)
 
